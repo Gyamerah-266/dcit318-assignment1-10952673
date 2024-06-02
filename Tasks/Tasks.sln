@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grade Calculator", "Grade Calculator\Grade Calculator.csproj", "{BCA9FB16-F3F3-4040-993A-8230F26CBB07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ticket Price Calculator", "Ticket Price Calculator\Ticket Price Calculator.csproj", "{839EE159-F8DB-4934-994D-3A3BD1A65903}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangle Type Identifier", "Triangle Type Identifier\Triangle Type Identifier.csproj", "{F76F7C57-D91F-4BC4-BF15-5E1E8DE370ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCA9FB16-F3F3-4040-993A-8230F26CBB07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCA9FB16-F3F3-4040-993A-8230F26CBB07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCA9FB16-F3F3-4040-993A-8230F26CBB07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCA9FB16-F3F3-4040-993A-8230F26CBB07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{839EE159-F8DB-4934-994D-3A3BD1A65903}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{839EE159-F8DB-4934-994D-3A3BD1A65903}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{839EE159-F8DB-4934-994D-3A3BD1A65903}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{839EE159-F8DB-4934-994D-3A3BD1A65903}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F76F7C57-D91F-4BC4-BF15-5E1E8DE370ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F76F7C57-D91F-4BC4-BF15-5E1E8DE370ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F76F7C57-D91F-4BC4-BF15-5E1E8DE370ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F76F7C57-D91F-4BC4-BF15-5E1E8DE370ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14674A75-2EBC-4F54-B4AC-25738AAB583D}
+	EndGlobalSection
+EndGlobal

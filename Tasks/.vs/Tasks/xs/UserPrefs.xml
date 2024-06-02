@@ -1,0 +1,6 @@
+﻿<Properties StartupConfiguration="{BCA9FB16-F3F3-4040-993A-8230F26CBB07}|Default">
+  <MonoDevelop.Ide.ItemProperties.Triangle_220Type_220Identifier FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Grade_220Calculator PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Ticket_220Price_220Calculator FirstBuild="True" />
+</Properties>
